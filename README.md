@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Luizfelipe7653
-- 👀 Estudante de Análise e desenvolvimento de Sistemas 
+- 👀 Estudante de Ciência Da Computação
 - 🌱 Estagiário CRECIMS
+- Professor Infopro
+- Professor Senac Hub Academy
 - 💞️ APAIXONADO por tecnologia 
 
 
