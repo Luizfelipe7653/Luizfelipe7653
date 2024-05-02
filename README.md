@@ -3,7 +3,10 @@
 - 🌱 Estagiário CRECIMS
 - Professor Infopro
 - Professor Senac Hub Academy
-- 💞️ APAIXONADO por tecnologia 
+- 💞️ APAIXONADO por tecnologia
+- Analista De Requesitos
+- HTML, CSS, JAVA, C#, 
+- 
 
 
 <!---
